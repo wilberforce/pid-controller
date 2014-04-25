@@ -1,0 +1,21 @@
+{
+  "name": "pid-controller",
+ "version" : "1.0.2",
+	"description" : "A node port of the Arduino PID library intended to be used on the Raspberry Pi",
+	"main" : "index.js",
+	"scripts" : {
+		"test" : "test.js"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "git://github.com/wilberforce/pid-controller.git"
+	},
+	"keywords" : [
+		"PID control",
+		"nodejs",
+		"brewing",
+		"mashinh"
+	],
+	"author" : "Rhys Williams",
+	"license" : "GPLv3"
+}
