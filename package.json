@@ -1,7 +1,7 @@
 {
   "name": "pid-controller",
  "version" : "1.0.3",
-	"description" : "A node port of the Arduino PID library intended to be used on the Raspberry Pi",
+	"description" : "A node port of the Arduino PID library",
 	"main" : "index.js",
 	"scripts" : {
 		"test" : "test.js"
