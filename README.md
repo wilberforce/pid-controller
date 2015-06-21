@@ -2,7 +2,7 @@
 
  Node.js PID controller
 
-A node advanced PID controller based on the Arduino PID library
+An advanced PID controller based on the Arduino PID library
 
 ## Installation
 
