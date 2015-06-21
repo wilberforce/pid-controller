@@ -1,20 +1,15 @@
 {
   "name": "pid-controller",
- "version" : "1.0.3",
+ "version" : "1.0.4",
 	"description" : "A node advanced PID controller based on the Arduino PID library",
 	"main" : "index.js",
-	"scripts" : {
-		"test" : "test.js"
-	},
 	"repository" : {
 		"type" : "git",
 		"url" : "git://github.com/wilberforce/pid-controller.git"
 	},
 	"keywords" : [
 		"PID control",
-		"nodejs",
-		"brewing",
-		"mashing"
+		"nodejs"
 	],
 	"author" : "Rhys Williams",
 	"license" : "GPL-3.0"
