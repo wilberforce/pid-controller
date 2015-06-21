@@ -1,6 +1,0 @@
-node_modules
-.gitignore
-.npmignore
-old.js
-PID.cpp
-test.js
