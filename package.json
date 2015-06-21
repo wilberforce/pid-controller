@@ -1,7 +1,7 @@
 {
   "name": "pid-controller",
  "version" : "1.0.3",
-	"description" : "A node port of the Arduino PID library",
+	"description" : "A node advanced PID controller based on the Arduino PID library",
 	"main" : "index.js",
 	"scripts" : {
 		"test" : "test.js"
@@ -17,5 +17,5 @@
 		"mashing"
 	],
 	"author" : "Rhys Williams",
-	"license" : "GPLv3"
+	"license" : "GPL-3.0"
 }
