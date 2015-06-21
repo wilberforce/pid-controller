@@ -2,7 +2,7 @@
 
  Node.js PID controller
 
-A node port of the Arduino PID library intended to be used on the Raspberry Pi
+A node advanced PID controller based on the Arduino PID library
 
 ## Installation
 
