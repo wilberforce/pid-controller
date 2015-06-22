@@ -10,7 +10,7 @@ An advanced PID controller based on the Arduino PID library
 
 ## Example
 
-### Temperture Controle Simulation
+##### Temperture Controle Simulation
 ```
 var temperture = 10,
     tempertureSetpoint = 21,
