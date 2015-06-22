@@ -1,4 +1,4 @@
-# node-pid-controller
+# pid-controller
 
 Node.js PID controller
 
@@ -8,10 +8,16 @@ An advanced PID controller based on the Arduino PID library
 
       $ npm install pid-controller
 
+## Use
+
+
+
 ## Example
 
-##### Temperture Controle Simulation
+##### Temperture Control Simulation
 ```
+var PID = require('pid-controller');
+
 var temperture = 10,
     tempertureSetpoint = 21,
     heating = 0.001,
