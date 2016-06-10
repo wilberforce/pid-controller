@@ -1,6 +1,6 @@
 {
   "name": "pid-controller",
- "version" : "1.0.4",
+ "version" : "1.0.5",
 	"description" : "A node advanced PID controller based on the Arduino PID library",
 	"main" : "index.js",
 	"repository" : {
